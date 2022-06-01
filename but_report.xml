@@ -1,14 +1,11 @@
 <Bug_report>
-
               <Header:> Login button not clickable</Header>
 
-	            <Description of the bug:> 1) Enter your username and password
-		                          2) Click on the "Login" button   </Description of the bug>
+	            <Description of the bug:> 1) Enter your username and password 2) Click on the 'Login button'</Description of the bug>
 
 	            <Expected Result:>You will be logged into your account</Expected Result>
 
-	            <Reality:>The login button isn't active and you cann't click it either with the mouse or with the keyboard.</Reality>
+	            <Reality:>The login button isn't active and you cann't click it either with the mouse or with the keyboard</Reality>
 
 	            <Video:>Link - awjsi0nasjasmdkasnd892.com</Video>
-
 </Bug_report>
